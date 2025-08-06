@@ -1,0 +1,45 @@
+Nows:
++Figure out why body text isnt aligned with header text (glue?)
+
+Plan
+1. Determine what we need to showcase
++create first showcase page to use as template
+
+2. Ready projects for showcase
++eDog
++Pantry Pilot
++Taskt
+
+3. Fill out showcases
++swap to currently ready projects
++fill out showcase for each ready project
+
+3.5 Finalize designs
++decide on the looks
+
+4. Get site working on pi
++transfer files
++modify nginx
++organize folders better
++add file references to nginx for even better organization
++make deployment script
+
+5. Get site working on web host
++what host did i decide on?
++security: auto updates
+
+6. Register domain
++buy it
++connect to server
+
+7. Get real ssl
++follow that lil tutorial
+
+
+Concept
+The main page shows a list of my projects, include an "about me" /resume item on this list.
+
+Each project has an about project page. This will be effectively a description, preview, 
+how it was made, showcase images/video, and a link to the github, download, and/or functioning site.
+
+The about me page will effectively include my resume, linkedin, and contact info.

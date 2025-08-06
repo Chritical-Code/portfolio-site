@@ -1,0 +1,17 @@
++Get real server
+
++Get url (maybe from porkbun)
+-chritical.dev
+
++Certificate Authority
+https://certbot.eff.org/instructions?ws=nginx&os=pip
+
++deployment script
+-forumlate an easy script for easy deployment
+
++modification process
+-identify and note an easy method for going from editing to deploying (git?)
+
++security
+-double check general security
+-add regular automatic updates
