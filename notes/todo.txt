@@ -1,5 +1,6 @@
 Nows:
-+Figure out why body text isnt aligned with header text (glue?)
++things needed for showcase
+-
 
 Plan
 1. Determine what we need to showcase
@@ -34,6 +35,8 @@ Plan
 
 7. Get real ssl
 +follow that lil tutorial
+
+8. Add to resume
 
 
 Concept
