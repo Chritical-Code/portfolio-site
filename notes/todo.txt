@@ -1,6 +1,6 @@
 Nows:
-+things needed for showcase
--
++make showcase look not bad
+-switch to horizontal scroll button style
 
 Plan
 1. Determine what we need to showcase
