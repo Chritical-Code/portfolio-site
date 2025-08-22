@@ -37,4 +37,4 @@ Plan
 
 Future things to fix:
 +better edog details section, include what its being hosted on
-+left and right buttons should work
++make header and footer use that neat reusey trick
