@@ -1,16 +1,13 @@
 Nows:
++Finish prepping TaskT
++Fill out TaskT
 
 Plan
-2. Ready projects for showcase
-+Pantry Pilot
-+Taskt
+2. Fill out showcase
++TaskT
++About me
 
-3. Fill out showcases
-+swap to currently ready projects
-+fill out showcase for each ready project
-+fill out about me
-
-3.5 Finalize designs
+3 Finalize designs
 +decide on the looks
 +make left and right buttons work
 
