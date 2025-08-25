@@ -2,7 +2,6 @@ Nows:
 
 Plan
 3 Finalize designs
-+decide on the looks
 +make left and right buttons work
 
 4. Get site working on pi
