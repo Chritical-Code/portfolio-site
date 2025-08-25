@@ -1,12 +1,6 @@
 Nows:
-+Finish prepping TaskT
-+Fill out TaskT
 
 Plan
-2. Fill out showcase
-+TaskT
-+About me
-
 3 Finalize designs
 +decide on the looks
 +make left and right buttons work
