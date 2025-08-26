@@ -1,8 +1,9 @@
 Nows:
++stylize left and right buttons
 
 Plan
 3 Finalize designs
-+make left and right buttons work
++stylize left and right buttons
 
 4. Get site working on pi
 +transfer files

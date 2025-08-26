@@ -183,8 +183,11 @@ hr{
     display: flex;
     flex-direction: row;
     align-items: center;
-    overflow-x: scroll;
+
     overflow-y: hidden;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 
     width: 660px;
     height: 450px;
