@@ -6,6 +6,7 @@
 		<link rel="stylesheet" href="style.css">
 		<meta charset="utf-8" />
 		<title>Portfolio</title>
+        <script src="slider.js"></script>
 	</head>
 
 
@@ -50,9 +51,9 @@
                 <hr>
                 <h2>Features</h2>
                 <div class="featureSection">
-                    <button class="arrow">Left</button>
+                    <button id="leftButton" class="arrow" onclick="moveLeft()">&lt;</button>
 
-                    <div class="featureShower">
+                    <div id="featureShower" class="featureShower">
                         <div class="feature">
                             <h3>Manage Products</h3>
                             <p>Unique entries can be added for each type of product sold at the store.
@@ -77,7 +78,7 @@
                         </div>
                     </div>
 
-                    <button class="arrow">Right</button>
+                    <button id="rightButton" class="arrow" onclick="moveRight()">&gt;</button>
                 </div>
 
                 <hr>

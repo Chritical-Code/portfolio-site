@@ -1,5 +1,5 @@
 Nows:
-+stylize left and right buttons
++apply changes to all other instances
 
 Plan
 3 Finalize designs
