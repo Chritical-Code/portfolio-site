@@ -1,12 +1,8 @@
 Nows:
-+Register domain
--add download links
 
 Todo
-6. Register domain
-+fix missing links (downloads)
-
 8. Add to resume
++ensure its resume ready
 
 9. maintenence
 +auto-deployment
@@ -23,6 +19,5 @@ Future things to fix:
 
 Adjacent changes:
 +some sort of timer might say 60 seconds instead of a year. see if we need to fix that.
-+set the demo site link in git
 +edog we should disable admin site in git
 +we might want a real backup of our private nginx file and our private settings.py file 
