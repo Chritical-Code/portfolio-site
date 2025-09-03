@@ -209,14 +209,14 @@ hr{
 }
 
 .arrow{
-    width: 70px;
-    height: 70px;
-    font-size: 45px;
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
 
     color: black;
     background-color: rgba(0, 0, 0, 0);
-    border: 2px solid black;
-    border-radius: 25%;
+    border: 1px solid black;
+    border-radius: 10px;
 }
 .arrow:hover{
     border-color: var(--darkHoverColor);

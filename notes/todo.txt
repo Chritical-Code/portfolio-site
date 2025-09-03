@@ -13,11 +13,8 @@ Todo
 
 
 Future things to fix:
-+better edog details section, include what its being hosted on
 +make header and footer use that neat reusey trick
-+make arrows look better
++make arrows look even better
 
 Adjacent changes:
-+some sort of timer might say 60 seconds instead of a year. see if we need to fix that.
-+edog we should disable admin site in git
-+we might want a real backup of our private nginx file and our private settings.py file 
++we might want a real backup of our private nginx file and our private settings.py file
