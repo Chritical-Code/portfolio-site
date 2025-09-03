@@ -1,9 +1,8 @@
 Nows:
++update the about me section with my new resume summary
+-git pull to server
 
 Todo
-8. Add to resume
-+ensure its resume ready
-
 9. maintenence
 +auto-deployment
 +auto-updates
