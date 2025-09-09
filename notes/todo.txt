@@ -1,19 +1,13 @@
 Nows:
-+update the about me section with my new resume summary
--git pull to server
++button should push to exact spot, remove locking
 
 Todo
-9. maintenence
+9. server maintenence
 +auto-deployment
 +auto-updates
 +alerts
-
-10. get a job
-
++regularly update secret key
 
 Future things to fix:
 +make header and footer use that neat reusey trick
 +make arrows look even better
-
-Adjacent changes:
-+we might want a real backup of our private nginx file and our private settings.py file

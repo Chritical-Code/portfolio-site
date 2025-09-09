@@ -1,27 +1,33 @@
-//show feature to the left
+//variables
+let moveSize = 660;
+let counter = 0;
+
+//slide feature to the left
 function moveLeft(){
+    //get feature shower
     let featureShower = document.getElementById("featureShower");
-    featureShower.scrollBy({left: -660, behavior: "smooth"});
-    disableButton("leftButton");
+    
+    //counter
+    counter -= 1;
+    if(counter < 0){
+        counter = 0;
+    }
+
+    //move
+    featureShower.scrollTo({left: moveSize * counter, behavior: "smooth"});
 }
 
-//show feature to the right
+//slide feature to the right
 function moveRight(){
+    //get feature shower
     let featureShower = document.getElementById("featureShower");
-    featureShower.scrollBy({left: 660, behavior: "smooth"});
-    disableButton("rightButton");
-}
 
-//briefly disable button
-function disableButton(buttonID){
-    //get correct button
-    let button = document.getElementById(buttonID);
+    //counter
+    counter += 1;
+    if(counter >= featureShower.children.length){
+        counter = featureShower.children.length - 1;
+    }
 
-    //disable button
-    button.disabled = true;
-
-    //enable after timer
-    setTimeout(() => {
-        button.disabled = false;
-    }, 750);
+    //move
+    featureShower.scrollTo({left: moveSize * counter, behavior: "smooth"});
 }
