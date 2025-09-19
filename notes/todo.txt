@@ -1,5 +1,5 @@
 Nows:
-+button should push to exact spot, remove locking
++favicon
 
 Todo
 9. server maintenence
